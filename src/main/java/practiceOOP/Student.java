@@ -18,8 +18,24 @@ public class Student implements Comparable<Student> { // compares students based
 
     }
 
+    /**
+     * Return the name of the student
+     * @return name
+     */
+    public String getName() {
+        return this.name;
+    }
+
+    /**
+     * Return the id of the student
+     * @return id
+     */
+    public int getId() {
+        return this.id;
+    }
+
     // FILL IN CODE:
-    // TODO: add getters and setters for instance variables name and id
+    // TODO: add setters for instance variables name and id
 
     /**
      * Return a string representation of the student
