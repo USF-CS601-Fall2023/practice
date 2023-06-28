@@ -49,7 +49,7 @@ public class Student implements Comparable<Student> { // compares students based
     }
 
     /**
-     * Compares this student with the otherStudent by name.
+     * Compares this student with the otherStudent by name, and if names are equal, by id.
 
      * @param otherStudent another student
      * @return a negative number if this.name comes before otherStudent's name in English alphabet,
