@@ -53,7 +53,7 @@ public class Student implements Comparable<Student> { // compares students based
 
      * @param otherStudent another student
      * @return a negative number if this.name comes before otherStudent's name in English alphabet,
-     *         0, if names are the same
+     *         if names are the same, compare by id; if names and ids are the same, return a 0.
      *         a positive number if this.name comes after otherStudents's name
      */
     public int compareTo(Student otherStudent) {

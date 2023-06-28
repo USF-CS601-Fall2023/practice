@@ -56,7 +56,7 @@ public class University {
     /**
      * Return a string representation of the university
      * @return a string that contains the name of the university on the first line, and
-     * then includes students: one student (name, id) on each line
+     * then includes students (one per line): name, id on each line
      */
     public String toString() {
         // FILL IN CODE: return a string representation of the university - see description above
