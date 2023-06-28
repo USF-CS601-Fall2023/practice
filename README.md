@@ -14,7 +14,7 @@ In this set of practice problems, you will practice using the following:
 - Create an account on Github. Please use your USF email for the Github account, and use a Github name that is similar to your USF account name / your actual name.
 - Login to github.com, click in the top right corner and select Settings in the menu. Scroll down to Developer Settings, then select Personal Tokens, Tokens (classic), and Generate a New Token (classic). Select all scopes for simplicity.
 - Copy the token that was generated. In IntelliJ, go to Preferences/Version Control/Github, and paste the token you just generated.
-- Click on the following link to create your private repository for this exercise: 
+- Click on the following link to create your private repository for this exercise: https://classroom.github.com/a/yI0Orv8x
 The repository will be seeded with the starter code. 
 - Go to the repository using the browser and click on the green button that says "Code"; you will see the URL of the repository -copy it, since you will need it for the next step.
 - To clone a copy of the repository to your local machine, in IntelliJ select File->New->Project from Version Control, copy the URL of the repository from Github, and follow the instructions. Once IntelliJ successfully clones the repository to your local machine and opens the project, click on `Project` in the vertical bar on the left hand side, and then on the arrow next to the name of the project to see the starter code for the practice exercise. 
